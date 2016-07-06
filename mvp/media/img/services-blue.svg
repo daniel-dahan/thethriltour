@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="416px" height="927px" viewBox="0 0 416 927" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tomorrowland-festival" transform="translate(0.000000, -3195.000000)">
+            <g id="Group-2" transform="translate(-512.000000, 3197.000000)">
+                <circle id="Oval-1" stroke="#4DDAEF" stroke-width="2" stroke-dasharray="1,8" cx="462.739703" cy="462.739703" r="441.003582"></circle>
+                <ellipse id="Oval-1" stroke="#4A4A4A" stroke-width="5" stroke-dasharray="1,9" cx="462.739703" cy="462.739703" rx="367.695827" ry="367.695827"></ellipse>
+                <ellipse id="Oval-1" stroke="#FBFBFB" stroke-width="10" stroke-dasharray="1,6" opacity="0.279384328" cx="461.417353" cy="461.417353" rx="461.417353" ry="461.417353"></ellipse>
+                <path d="M512,499 C544.5848,499 571,472.5848 571,440 C571,407.4152 544.5848,381 512,381 C479.4152,381 453,407.4152 453,440 C453,472.5848 479.4152,499 512,499 Z" id="Oval-3-Copy-4" stroke="#5A616D" stroke-width="31" stroke-dasharray="1"></path>
+                <path d="M512,450 C517.522847,450 522,445.522847 522,440 C522,434.477153 517.522847,430 512,430 C506.477153,430 502,434.477153 502,440 C502,445.522847 506.477153,450 512,450 Z" id="Oval-3-Copy-4" fill="#51E6FB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

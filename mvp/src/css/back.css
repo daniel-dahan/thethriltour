@@ -1,0 +1,96 @@
+body{
+    width: 70% !important;
+    margin-left: 15% !important;
+}
+form{
+	 width: 100% !important;
+}
+input{
+	
+	margin-bottom: 50px !important;
+	color: white !important;
+	width: 700px !important;
+	
+}
+form{
+	margin-top: 20% !important;
+}
+input [type="textarea"]{
+	width: 100% !important;
+	color: white !important;
+}
+input[type="checkbox"]{
+	position: relative !important;
+	width: 20px !important;
+	height: 20px !important;
+	z-index: 9999!important;
+}
+span{
+	font-weight: bold;
+	color: white !important;
+}
+input[type="radio"]{
+	left: 20px !important;
+	position: relative !important;
+	width: 20px !important;
+	height: 20px !important;
+	z-index: 9999!important;
+}
+h2{
+	margin-bottom: 40px !important;
+}
+li{
+	margin-bottom: 25px !important;
+
+}
+a{
+	width: 150px !important;
+}
+.festivale-modif a{
+	display: block;
+    margin-right: 88%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px 5px;
+    margin-top: 10px;
+}
+.services-modif a{
+	display: block;
+    margin-right: 88%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px 5px;
+    margin-top: 10px;
+}
+.guide-modif a{
+	display: block;
+    margin-right: 88%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px 5px;
+    margin-top: 10px;
+}
+.span-festival{
+	color: #5D6470;
+	text-transform: uppercase;
+}
+label{
+	display: block !important;
+}
+.form-editfestival{
+	text-align: left;
+	color: white;
+}
+label{
+	color: white;
+}
+.bouton_envoye{
+	margin-top: 70px;
+}
+select {
+	margin-bottom: 40px;
+}
+
+
+
+

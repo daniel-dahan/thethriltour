@@ -1,0 +1,47 @@
+####
+# Ajout d'options
+##
+	Options +FollowSymlinks
+	AddDefaultCharset utf-8
+#
+####
+
+####
+# Suppression d'options
+##
+	Options -Indexes
+#
+####
+
+####
+# Configuration des modules
+##
+	RewriteEngine on
+#
+####
+
+####
+# Blocage de consultation de fichier
+##
+	# Exception à la consultation du fichier index.php
+	RewriteCond %{REQUEST_URI} test.php$
+	RewriteRule	(.*)								$1									[L]
+	
+####
+# Réécriture des URLs
+##
+	####
+	# Réécritures génériques
+	##
+	
+		# ADMIN 
+		RewriteRule	^(backoffice)$	/backoffice.php	[L]
+		
+		# Avec paramètre(s)
+		RewriteRule	^([a-z-]+).html$	/$1.php		[L]
+		RewriteRule	^([a-z-]+)/([a-z-]+)\.html$	/$1.php?slug=$2		[L]
+
+	#
+	####
+#
+####

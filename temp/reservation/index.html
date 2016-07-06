@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="css/main.css" rel="stylesheet">
+
+    <title>Reservation</title>
+</head>
+<body>
+    <form>
+        <label for="civilite">CIVILITE :</label>
+            <select name="choix" id="civilite">
+            <option value="choix1">Mr</option>
+            <option value="choix2">Mme</option>
+            <option value="choix3">Mlle</option>
+            </select><br/>
+        <label for="nom">NOM :</label>
+        <input type="text" name="nom" id="nom"/><br />
+        <label for="prenom">PRéNOM :</label>
+        <input type="text" name="prenom" id="prenom"/><br />
+        <label for="email">EMAIL :</label>
+        <input type="text" name="email" id="email"/><br />
+        <label for="adresse">ADRESSE :</label>
+        <input type="text" name="adresse" id="adresse"/><br />
+        <label for="ville">VILLE :</label>
+        <input type="text" name="ville" id="ville"/><br />
+        <label for="pays">PAYS :</label>
+        <input type="text" name="pays" id="pays"/><br />
+        <label for="tel">TéLéPHONE:</label>
+        <input type="tel" name="tel" id="tel" pattern="^((\+\d{1,3}(-| )?\(?\d\)?(-| )?\d{1,5})|(\(?\d{2,6}\)?))(-| )?(\d{3,4})(-| )?(\d{4})(( x| ext)\d{1,5}){0,1}$"><br>
+        <label for="datedenaissance">date de naissance :</label>
+        <input type="text" name="datedenaissance" id="datedenaissance"/><br />
+        <label for="festival">CONFIRMER LE FESTIVAL :</label>
+        <select name="choix" id="festival">
+            <option value="choix1">COACHELLA</option>
+            <option value="choix2">UMF</option>
+            <option value="choix3">TOMOROWLAND</option>
+        </select><br/>
+
+        <div id="boutton">
+            <input type="checkbox" name="reglement" id="reglement" class="checkbox" />
+            <label for="reglement">J’ACCEPTE LES CONDITIONS D'UTILISATION </label> <br />
+            <input type="checkbox" name="actu" id="actu" class="checkbox" />
+            <label for="actu">JE SOUHAITE ÊTRE INFORMÉ DES DERNIèReS ACTUALITÉS</label><br />
+        <input type="submit" name="DoIt" value="JE RESERVE VOTRE PLACE" class="submit"/>
+        </div>
+    </form>
+</body>
+</html>

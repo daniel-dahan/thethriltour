@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Coachella",
+		"date": [
+			{
+				"day": "14",
+				"month": "04",
+				"year": "2017"
+			}
+		],
+		"place": "Californie - USA",
+		"description": "LOREM IPSUM DOLOR SIN AMET",
+		"slug": "coachella"
+	},
+	{
+		"name": "TomorrowLand",
+		"date": [
+			{
+				"day": "22", 
+				"month": "07",
+				"year": "2017"
+			}
+		],
+		"place": "Belgique",
+		"description": "LOREM IPSUM DOLOR SIN AMET",
+		"slug": "tomorrowland"
+	},
+	{
+		"name": "Ultra Music",
+		"date": [
+			{
+				"day": "24",
+				"month": "03",
+				"year": "2017"
+			}
+		],
+		"place": "Floride - USA",
+		"description": "LOREM IPSUM DOLOR SIN AMET",
+		"slug": "ultra-music"
+	}
+]

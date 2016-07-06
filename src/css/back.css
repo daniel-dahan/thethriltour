@@ -1,0 +1,43 @@
+html{
+	width: 80% !important;
+}
+form{
+	 width: 700px !important;
+}
+input{
+	
+	margin-bottom: 50px !important;
+	color: white !important;
+	width: 700px !important;
+	
+}
+form{
+	margin-top: 20% !important;
+}
+input [type="textarea"]{
+	width: 100% !important;
+	color: white !important;
+}
+input[type="checkbox"]{
+	left: 20px !important;
+	position: relative !important;
+	width: 20px !important;
+	height: 20px !important;
+	z-index: 9999!important;
+}
+span{
+	color: white;
+	margin-right: 614px;
+
+}
+input[type="radio"]{
+	left: 20px !important;
+	position: relative !important;
+	width: 20px !important;
+	height: 20px !important;
+	z-index: 9999!important;
+}
+.festivale-modif{
+	width: 50% !important;
+}
+
